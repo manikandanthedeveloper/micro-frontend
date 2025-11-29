@@ -1,1 +1,2 @@
+import "faker";
 import("./bootstrap");
